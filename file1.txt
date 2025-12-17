@@ -1,7 +1,5 @@
-master
-this is my git version control session --line 1 updated
-b2
-this is my git version control session ---b2 updated
+this is my git version control session --line 1 updated my master
+this is my git version control session ---b2 updated by branch
 updated
 
 
