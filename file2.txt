@@ -3,3 +3,6 @@ this is my file 2
 
 
 updated
+
+updated in b2 branch 
+file2
